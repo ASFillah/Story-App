@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FAS Story</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi cerita tentang pengalaman kamu di bidang IT? Di FAS Story aja!</string>
+    <string name="title_welcome_page">Selamat datang di FAS Story!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan datamu dulu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Datang di FAS Story.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="iv_photo">Photo User</string>
+    <string name="username">Username</string>
+    <string name="description">Description</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Galery</string>
+    <string name="upload">Upload</string>
+    <string name="warning_empty">Masukkan gambar terlebih dahulu!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Coba lagi</string>
+    <string name="image_description">Description Image</string>
+    <string name="login_successfully">Login successfully</string>
+</resources>

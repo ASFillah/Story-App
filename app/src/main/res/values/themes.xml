@@ -1,0 +1,9 @@
+<resources>
+    <style
+        name="Base.Theme.LoginWithAnimation" parent="Theme.Material3.DayNight">
+    </style>
+
+    <style name="Theme.LoginWithAnimation" parent="Base.Theme.LoginWithAnimation" />
+
+    <style name="Theme.Splash" parent="Theme.MaterialComponents.Light.NoActionBar"></style>
+</resources>
